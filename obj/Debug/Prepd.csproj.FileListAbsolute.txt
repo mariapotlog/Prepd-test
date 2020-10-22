@@ -1,0 +1,36 @@
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Prepd.dll
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Prepd.pdb
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\WebDriver.dll
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\WebDriver.Support.dll
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\WebDriver.xml
+C:\Users\JeanR\source\repos\Prepd\bin\Debug\WebDriver.Support.xml
+C:\Users\JeanR\source\repos\Prepd\obj\Debug\Prepd.csprojAssemblyReference.cache
+C:\Users\JeanR\source\repos\Prepd\obj\Debug\Prepd.csproj.CoreCompileInputs.cache
+C:\Users\JeanR\source\repos\Prepd\obj\Debug\Prepd.csproj.CopyComplete
+C:\Users\JeanR\source\repos\Prepd\obj\Debug\Prepd.dll
+C:\Users\JeanR\source\repos\Prepd\obj\Debug\Prepd.pdb
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Prepd.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Prepd.pdb
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\WebDriver.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\WebDriver.Support.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\WebDriver.xml
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\bin\Debug\WebDriver.Support.xml
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\obj\Debug\Prepd.csprojAssemblyReference.cache
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\obj\Debug\Prepd.csproj.CoreCompileInputs.cache
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\obj\Debug\Prepd.csproj.CopyComplete
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\obj\Debug\Prepd.dll
+C:\Users\Maria Potlog\Source\Repos\studious-octo-broccoli\obj\Debug\Prepd.pdb
